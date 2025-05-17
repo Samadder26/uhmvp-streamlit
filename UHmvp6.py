@@ -573,14 +573,14 @@ with tab2:
         # Button to reset all selections
         if st.button("Reset All Selections", key="reset_button"):
             st.session_state.selected_food_ids = []
-            st.experimental_rerun()
+            st.rerun()
     
     with reset_col2:
         # Button to clear filters
         if st.button("Clear All Filters", key="clear_filters"):
             st.session_state.search_query = ""
             st.session_state.selected_categories = available_categories
-            st.experimental_rerun()
+            st.rerun()
     
     # Filter explanation
     st.info("Use filters to find foods to add to your meal. Your selected foods will be shown below regardless of current filter settings.")
