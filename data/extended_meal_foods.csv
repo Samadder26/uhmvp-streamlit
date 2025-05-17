@@ -1,0 +1,155 @@
+food_id,food_name,food_category,carbs,protein,fat,fiber,gi_value,food_type,sequence,meal_id
+5011,Pumpkin seeds,Fats,5.0,7.0,13.0,1.7,15,fat,1,meal_1
+2007,"Lettuce, romaine",Vegetables,2.9,1.4,0.2,1.3,15,vegetable,2,meal_1
+1011,"Tilapia, baked",Proteins,0.0,26.0,3.0,0.0,0,protein,3,meal_2
+2012,"Carrots, raw",Vegetables,9.6,0.9,0.2,2.8,35,vegetable,2,meal_2
+3013,"Couscous, cooked",Carbs,23.0,3.8,0.2,1.4,65,carb,1,meal_2
+6003,"Milk, skim",Dairy,4.8,3.4,0.1,0.0,32,dairy,2,meal_3
+5003,Almonds,Fats,6.1,6.0,14.0,3.5,15,fat,1,meal_3
+1012,"Venison, roasted",Proteins,0.0,30.0,3.0,0.0,0,protein,2,meal_4
+2001,"Spinach, raw",Vegetables,3.6,2.9,0.4,2.2,15,vegetable,3,meal_4
+3011,"Corn, cooked",Carbs,21.0,3.3,1.5,2.4,52,carb,4,meal_4
+8001,"Black beans, cooked",Legumes,24.0,8.9,0.5,15.0,30,protein,1,meal_4
+1007,"Pork chop, lean",Proteins,0.0,26.0,14.0,0.0,0,protein,4,meal_5
+2008,"Zucchini, raw",Vegetables,3.1,1.2,0.3,1.0,15,vegetable,3,meal_5
+3003,White bread,Carbs,49.0,9.0,3.3,2.7,75,carb,2,meal_5
+8007,"Green peas, cooked",Legumes,14.0,5.0,0.4,4.4,51,vegetable,1,meal_5
+1011,"Tilapia, baked",Proteins,0.0,26.0,3.0,0.0,0,protein,3,meal_6
+2006,"Cucumber, with peel",Vegetables,3.6,0.7,0.1,0.5,15,vegetable,1,meal_6
+3014,"Bagel, plain",Carbs,53.0,11.0,1.7,2.0,72,carb,2,meal_6
+1012,"Venison, roasted",Proteins,0.0,30.0,3.0,0.0,0,protein,1,meal_7
+2013,"Mushrooms, white",Vegetables,3.3,3.1,0.3,1.0,15,vegetable,2,meal_7
+3003,White bread,Carbs,49.0,9.0,3.3,2.7,75,carb,3,meal_7
+6001,"Greek yogurt, plain",Dairy,3.6,9.0,0.4,0.0,35,dairy,1,meal_8
+5003,Almonds,Fats,6.1,6.0,14.0,3.5,15,fat,2,meal_8
+1009,"Shrimp, cooked",Proteins,0.0,24.0,1.0,0.0,0,protein,1,meal_9
+2008,"Zucchini, raw",Vegetables,3.1,1.2,0.3,1.0,15,vegetable,4,meal_9
+3006,"Potato, white, baked",Carbs,17.0,2.0,0.1,2.0,78,carb,3,meal_9
+8001,"Black beans, cooked",Legumes,24.0,8.9,0.5,15.0,30,protein,2,meal_9
+1010,"Cottage cheese, 2% fat",Proteins,3.4,12.4,4.3,0.0,10,protein,2,meal_10
+2007,"Lettuce, romaine",Vegetables,2.9,1.4,0.2,1.3,15,vegetable,3,meal_10
+3010,"Oatmeal, cooked",Carbs,12.0,2.0,1.4,2.0,55,carb,4,meal_10
+8006,"Edamame, shelled",Legumes,8.9,8.5,4.0,4.0,25,protein,1,meal_10
+1011,"Tilapia, baked",Proteins,0.0,26.0,3.0,0.0,0,protein,3,meal_11
+2008,"Zucchini, raw",Vegetables,3.1,1.2,0.3,1.0,15,vegetable,1,meal_11
+3003,White bread,Carbs,49.0,9.0,3.3,2.7,75,carb,2,meal_11
+1005,"Eggs, whole, cooked",Proteins,0.6,12.6,10.6,0.0,0,protein,3,meal_12
+2016,Brussels sprouts,Vegetables,8.9,3.4,0.3,3.8,15,vegetable,2,meal_12
+3002,"Brown rice, cooked",Carbs,23.0,2.6,0.9,1.8,68,carb,1,meal_12
+1007,"Pork chop, lean",Proteins,0.0,26.0,14.0,0.0,0,protein,2,meal_13
+2003,"Kale, raw",Vegetables,9.0,4.3,0.7,3.6,15,vegetable,1,meal_13
+3004,Whole grain bread,Carbs,43.0,13.0,3.4,7.0,55,carb,3,meal_13
+1006,"Tuna, canned in water",Proteins,0.0,27.0,1.0,0.0,0,protein,3,meal_14
+2013,"Mushrooms, white",Vegetables,3.3,3.1,0.3,1.0,15,vegetable,1,meal_14
+3010,"Oatmeal, cooked",Carbs,12.0,2.0,1.4,2.0,55,carb,2,meal_14
+8002,"Chickpeas, cooked",Legumes,27.0,9.0,3.0,8.0,28,protein,4,meal_14
+1005,"Eggs, whole, cooked",Proteins,0.6,12.6,10.6,0.0,0,protein,4,meal_15
+2009,Green beans,Vegetables,7.0,1.8,0.1,2.7,15,vegetable,1,meal_15
+3003,White bread,Carbs,49.0,9.0,3.3,2.7,75,carb,2,meal_15
+8004,"Kidney beans, cooked",Legumes,22.8,8.7,0.5,6.4,28,protein,3,meal_15
+1004,"Tofu, firm",Proteins,2.0,8.0,4.0,1.0,15,protein,2,meal_16
+2002,"Broccoli, raw",Vegetables,6.0,2.5,0.4,2.4,15,vegetable,4,meal_16
+3013,"Couscous, cooked",Carbs,23.0,3.8,0.2,1.4,65,carb,1,meal_16
+8007,"Green peas, cooked",Legumes,14.0,5.0,0.4,4.4,51,vegetable,3,meal_16
+1006,"Tuna, canned in water",Proteins,0.0,27.0,1.0,0.0,0,protein,4,meal_17
+2010,"Asparagus, cooked",Vegetables,3.9,2.2,0.1,2.1,15,vegetable,2,meal_17
+3001,"White rice, cooked",Carbs,28.0,2.7,0.3,0.4,73,carb,1,meal_17
+8005,"Pinto beans, cooked",Legumes,22.0,7.0,0.7,7.0,39,protein,3,meal_17
+1004,"Tofu, firm",Proteins,2.0,8.0,4.0,1.0,15,protein,4,meal_18
+2008,"Zucchini, raw",Vegetables,3.1,1.2,0.3,1.0,15,vegetable,3,meal_18
+3004,Whole grain bread,Carbs,43.0,13.0,3.4,7.0,55,carb,1,meal_18
+8007,"Green peas, cooked",Legumes,14.0,5.0,0.4,4.4,51,vegetable,2,meal_18
+6009,Cream cheese,Dairy,1.6,2.1,10.0,0.0,0,dairy,1,meal_19
+4001,"Apple, with skin",Fruits,14.0,0.3,0.2,2.4,36,fruit,2,meal_19
+1007,"Pork chop, lean",Proteins,0.0,26.0,14.0,0.0,0,protein,2,meal_20
+2010,"Asparagus, cooked",Vegetables,3.9,2.2,0.1,2.1,15,vegetable,4,meal_20
+3002,"Brown rice, cooked",Carbs,23.0,2.6,0.9,1.8,68,carb,1,meal_20
+8007,"Green peas, cooked",Legumes,14.0,5.0,0.4,4.4,51,vegetable,3,meal_20
+7010,"Ice cream, vanilla",Sweets,24.0,3.5,11.0,0.7,62,sweet,2,meal_21
+4011,Peach,Fruits,9.5,0.9,0.3,1.5,42,fruit,1,meal_21
+5009,Butter,Fats,0.1,0.1,11.5,0.0,0,fat,2,meal_22
+2002,"Broccoli, raw",Vegetables,6.0,2.5,0.4,2.4,15,vegetable,1,meal_22
+2014,"Onions, raw",Vegetables,9.3,1.1,0.1,1.7,15,vegetable,1,meal_23
+1007,"Pork chop, lean",Proteins,0.0,26.0,14.0,0.0,0,protein,2,meal_23
+1001,"Chicken breast, grilled",Proteins,0.0,31.0,3.6,0.0,0,protein,2,meal_24
+2014,"Onions, raw",Vegetables,9.3,1.1,0.1,1.7,15,vegetable,3,meal_24
+3002,"Brown rice, cooked",Carbs,23.0,2.6,0.9,1.8,68,carb,1,meal_24
+1010,"Cottage cheese, 2% fat",Proteins,3.4,12.4,4.3,0.0,10,protein,1,meal_25
+2004,"Bell peppers, red",Vegetables,6.0,1.0,0.3,2.1,15,vegetable,3,meal_25
+3003,White bread,Carbs,49.0,9.0,3.3,2.7,75,carb,2,meal_25
+8004,"Kidney beans, cooked",Legumes,22.8,8.7,0.5,6.4,28,protein,4,meal_25
+1001,"Chicken breast, grilled",Proteins,0.0,31.0,3.6,0.0,0,protein,3,meal_26
+2014,"Onions, raw",Vegetables,9.3,1.1,0.1,1.7,15,vegetable,1,meal_26
+3010,"Oatmeal, cooked",Carbs,12.0,2.0,1.4,2.0,55,carb,2,meal_26
+8005,"Pinto beans, cooked",Legumes,22.0,7.0,0.7,7.0,39,protein,4,meal_26
+1011,"Tilapia, baked",Proteins,0.0,26.0,3.0,0.0,0,protein,1,meal_27
+7005,White sugar,Sweets,100.0,0.0,0.0,0.0,65,sweet,2,meal_27
+1006,"Tuna, canned in water",Proteins,0.0,27.0,1.0,0.0,0,protein,1,meal_28
+2009,Green beans,Vegetables,7.0,1.8,0.1,2.7,15,vegetable,2,meal_28
+3013,"Couscous, cooked",Carbs,23.0,3.8,0.2,1.4,65,carb,3,meal_28
+1009,"Shrimp, cooked",Proteins,0.0,24.0,1.0,0.0,0,protein,1,meal_29
+2007,"Lettuce, romaine",Vegetables,2.9,1.4,0.2,1.3,15,vegetable,2,meal_29
+3009,"Quinoa, cooked",Carbs,21.3,4.4,1.9,2.8,53,carb,4,meal_29
+8004,"Kidney beans, cooked",Legumes,22.8,8.7,0.5,6.4,28,protein,3,meal_29
+1009,"Shrimp, cooked",Proteins,0.0,24.0,1.0,0.0,0,protein,4,meal_30
+2014,"Onions, raw",Vegetables,9.3,1.1,0.1,1.7,15,vegetable,3,meal_30
+3004,Whole grain bread,Carbs,43.0,13.0,3.4,7.0,55,carb,1,meal_30
+8005,"Pinto beans, cooked",Legumes,22.0,7.0,0.7,7.0,39,protein,2,meal_30
+1008,"Turkey breast, roasted",Proteins,0.0,29.0,1.0,0.0,0,protein,3,meal_31
+2005,"Cauliflower, raw",Vegetables,5.0,2.0,0.3,2.0,15,vegetable,2,meal_31
+3010,"Oatmeal, cooked",Carbs,12.0,2.0,1.4,2.0,55,carb,1,meal_31
+8005,"Pinto beans, cooked",Legumes,22.0,7.0,0.7,7.0,39,protein,4,meal_31
+1004,"Tofu, firm",Proteins,2.0,8.0,4.0,1.0,15,protein,1,meal_32
+2003,"Kale, raw",Vegetables,9.0,4.3,0.7,3.6,15,vegetable,2,meal_32
+3010,"Oatmeal, cooked",Carbs,12.0,2.0,1.4,2.0,55,carb,3,meal_32
+1010,"Cottage cheese, 2% fat",Proteins,3.4,12.4,4.3,0.0,10,protein,3,meal_33
+2007,"Lettuce, romaine",Vegetables,2.9,1.4,0.2,1.3,15,vegetable,2,meal_33
+3007,"Pasta, white, cooked",Carbs,25.0,5.0,1.1,1.2,55,carb,1,meal_33
+3003,White bread,Carbs,49.0,9.0,3.3,2.7,75,carb,1,meal_34
+5005,Chia seeds,Fats,12.0,4.7,9.0,10.0,15,fat,2,meal_34
+6003,"Milk, skim",Dairy,4.8,3.4,0.1,0.0,32,dairy,2,meal_35
+1005,"Eggs, whole, cooked",Proteins,0.6,12.6,10.6,0.0,0,protein,1,meal_35
+1008,"Turkey breast, roasted",Proteins,0.0,29.0,1.0,0.0,0,protein,1,meal_36
+2002,"Broccoli, raw",Vegetables,6.0,2.5,0.4,2.4,15,vegetable,2,meal_36
+3002,"Brown rice, cooked",Carbs,23.0,2.6,0.9,1.8,68,carb,3,meal_36
+8008,"Lima beans, cooked",Legumes,21.0,7.8,0.5,7.0,32,protein,4,meal_36
+1007,"Pork chop, lean",Proteins,0.0,26.0,14.0,0.0,0,protein,2,meal_37
+2002,"Broccoli, raw",Vegetables,6.0,2.5,0.4,2.4,15,vegetable,1,meal_37
+3015,"Tortilla, corn",Carbs,12.5,1.5,1.0,1.5,52,carb,3,meal_37
+5008,Peanut butter,Fats,6.0,8.0,16.0,2.0,14,fat,1,meal_38
+3003,White bread,Carbs,49.0,9.0,3.3,2.7,75,carb,2,meal_38
+7002,Milk chocolate,Sweets,53.0,7.5,30.0,3.4,43,sweet,1,meal_39
+1004,"Tofu, firm",Proteins,2.0,8.0,4.0,1.0,15,protein,2,meal_39
+1008,"Turkey breast, roasted",Proteins,0.0,29.0,1.0,0.0,0,protein,3,meal_40
+2006,"Cucumber, with peel",Vegetables,3.6,0.7,0.1,0.5,15,vegetable,1,meal_40
+3002,"Brown rice, cooked",Carbs,23.0,2.6,0.9,1.8,68,carb,2,meal_40
+1012,"Venison, roasted",Proteins,0.0,30.0,3.0,0.0,0,protein,3,meal_41
+2001,"Spinach, raw",Vegetables,3.6,2.9,0.4,2.2,15,vegetable,1,meal_41
+3002,"Brown rice, cooked",Carbs,23.0,2.6,0.9,1.8,68,carb,2,meal_41
+1002,"Salmon, wild, cooked",Proteins,0.0,25.0,13.0,0.0,0,protein,3,meal_42
+2011,"Tomatoes, raw",Vegetables,3.9,0.9,0.2,1.2,15,vegetable,1,meal_42
+3006,"Potato, white, baked",Carbs,17.0,2.0,0.1,2.0,78,carb,2,meal_42
+8001,"Black beans, cooked",Legumes,24.0,8.9,0.5,15.0,30,protein,4,meal_42
+4011,Peach,Fruits,9.5,0.9,0.3,1.5,42,fruit,1,meal_43
+1008,"Turkey breast, roasted",Proteins,0.0,29.0,1.0,0.0,0,protein,2,meal_43
+1005,"Eggs, whole, cooked",Proteins,0.6,12.6,10.6,0.0,0,protein,2,meal_44
+2015,"Eggplant, cooked",Vegetables,5.9,0.8,0.2,3.0,15,vegetable,1,meal_44
+3008,"Pasta, whole wheat",Carbs,37.0,7.5,0.8,4.6,42,carb,4,meal_44
+8008,"Lima beans, cooked",Legumes,21.0,7.8,0.5,7.0,32,protein,3,meal_44
+1003,"Ground beef, 90% lean",Proteins,0.0,26.0,10.0,0.0,0,protein,2,meal_45
+2012,"Carrots, raw",Vegetables,9.6,0.9,0.2,2.8,35,vegetable,3,meal_45
+3013,"Couscous, cooked",Carbs,23.0,3.8,0.2,1.4,65,carb,1,meal_45
+1010,"Cottage cheese, 2% fat",Proteins,3.4,12.4,4.3,0.0,10,protein,2,meal_46
+2011,"Tomatoes, raw",Vegetables,3.9,0.9,0.2,1.2,15,vegetable,3,meal_46
+3001,"White rice, cooked",Carbs,28.0,2.7,0.3,0.4,73,carb,4,meal_46
+8004,"Kidney beans, cooked",Legumes,22.8,8.7,0.5,6.4,28,protein,1,meal_46
+3008,"Pasta, whole wheat",Carbs,37.0,7.5,0.8,4.6,42,carb,2,meal_47
+1010,"Cottage cheese, 2% fat",Proteins,3.4,12.4,4.3,0.0,10,protein,1,meal_47
+6009,Cream cheese,Dairy,1.6,2.1,10.0,0.0,0,dairy,2,meal_48
+1001,"Chicken breast, grilled",Proteins,0.0,31.0,3.6,0.0,0,protein,1,meal_48
+1007,"Pork chop, lean",Proteins,0.0,26.0,14.0,0.0,0,protein,2,meal_49
+2001,"Spinach, raw",Vegetables,3.6,2.9,0.4,2.2,15,vegetable,1,meal_49
+3002,"Brown rice, cooked",Carbs,23.0,2.6,0.9,1.8,68,carb,3,meal_49
+1012,"Venison, roasted",Proteins,0.0,30.0,3.0,0.0,0,protein,3,meal_50
+2013,"Mushrooms, white",Vegetables,3.3,3.1,0.3,1.0,15,vegetable,1,meal_50
+3001,"White rice, cooked",Carbs,28.0,2.7,0.3,0.4,73,carb,2,meal_50

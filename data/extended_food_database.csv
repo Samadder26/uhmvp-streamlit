@@ -1,0 +1,98 @@
+food_id,food_name,food_category,carbs,protein,fat,fiber,gi_value,food_type
+1001,"Chicken breast, grilled",Proteins,0.0,31.0,3.6,0.0,0,protein
+1002,"Salmon, wild, cooked",Proteins,0.0,25.0,13.0,0.0,0,protein
+1003,"Ground beef, 90% lean",Proteins,0.0,26.0,10.0,0.0,0,protein
+1004,"Tofu, firm",Proteins,2.0,8.0,4.0,1.0,15,protein
+1005,"Eggs, whole, cooked",Proteins,0.6,12.6,10.6,0.0,0,protein
+1006,"Tuna, canned in water",Proteins,0.0,27.0,1.0,0.0,0,protein
+1007,"Pork chop, lean",Proteins,0.0,26.0,14.0,0.0,0,protein
+1008,"Turkey breast, roasted",Proteins,0.0,29.0,1.0,0.0,0,protein
+1009,"Shrimp, cooked",Proteins,0.0,24.0,1.0,0.0,0,protein
+1010,"Cottage cheese, 2% fat",Proteins,3.4,12.4,4.3,0.0,10,protein
+1011,"Tilapia, baked",Proteins,0.0,26.0,3.0,0.0,0,protein
+1012,"Venison, roasted",Proteins,0.0,30.0,3.0,0.0,0,protein
+2001,"Spinach, raw",Vegetables,3.6,2.9,0.4,2.2,15,vegetable
+2002,"Broccoli, raw",Vegetables,6.0,2.5,0.4,2.4,15,vegetable
+2003,"Kale, raw",Vegetables,9.0,4.3,0.7,3.6,15,vegetable
+2004,"Bell peppers, red",Vegetables,6.0,1.0,0.3,2.1,15,vegetable
+2005,"Cauliflower, raw",Vegetables,5.0,2.0,0.3,2.0,15,vegetable
+2006,"Cucumber, with peel",Vegetables,3.6,0.7,0.1,0.5,15,vegetable
+2007,"Lettuce, romaine",Vegetables,2.9,1.4,0.2,1.3,15,vegetable
+2008,"Zucchini, raw",Vegetables,3.1,1.2,0.3,1.0,15,vegetable
+2009,Green beans,Vegetables,7.0,1.8,0.1,2.7,15,vegetable
+2010,"Asparagus, cooked",Vegetables,3.9,2.2,0.1,2.1,15,vegetable
+2011,"Tomatoes, raw",Vegetables,3.9,0.9,0.2,1.2,15,vegetable
+2012,"Carrots, raw",Vegetables,9.6,0.9,0.2,2.8,35,vegetable
+2013,"Mushrooms, white",Vegetables,3.3,3.1,0.3,1.0,15,vegetable
+2014,"Onions, raw",Vegetables,9.3,1.1,0.1,1.7,15,vegetable
+2015,"Eggplant, cooked",Vegetables,5.9,0.8,0.2,3.0,15,vegetable
+2016,Brussels sprouts,Vegetables,8.9,3.4,0.3,3.8,15,vegetable
+3001,"White rice, cooked",Carbs,28.0,2.7,0.3,0.4,73,carb
+3002,"Brown rice, cooked",Carbs,23.0,2.6,0.9,1.8,68,carb
+3003,White bread,Carbs,49.0,9.0,3.3,2.7,75,carb
+3004,Whole grain bread,Carbs,43.0,13.0,3.4,7.0,55,carb
+3005,"Sweet potato, baked",Carbs,20.0,2.0,0.1,3.0,63,carb
+3006,"Potato, white, baked",Carbs,17.0,2.0,0.1,2.0,78,carb
+3007,"Pasta, white, cooked",Carbs,25.0,5.0,1.1,1.2,55,carb
+3008,"Pasta, whole wheat",Carbs,37.0,7.5,0.8,4.6,42,carb
+3009,"Quinoa, cooked",Carbs,21.3,4.4,1.9,2.8,53,carb
+3010,"Oatmeal, cooked",Carbs,12.0,2.0,1.4,2.0,55,carb
+3011,"Corn, cooked",Carbs,21.0,3.3,1.5,2.4,52,carb
+3012,"Barley, cooked",Carbs,28.2,3.6,0.7,3.8,28,carb
+3013,"Couscous, cooked",Carbs,23.0,3.8,0.2,1.4,65,carb
+3014,"Bagel, plain",Carbs,53.0,11.0,1.7,2.0,72,carb
+3015,"Tortilla, corn",Carbs,12.5,1.5,1.0,1.5,52,carb
+3016,"Tortilla, flour",Carbs,26.0,4.0,2.5,1.2,30,carb
+4001,"Apple, with skin",Fruits,14.0,0.3,0.2,2.4,36,fruit
+4002,Banana,Fruits,23.0,1.1,0.3,2.6,51,fruit
+4003,Orange,Fruits,12.0,0.9,0.1,2.4,43,fruit
+4004,Strawberries,Fruits,7.7,0.7,0.3,2.0,40,fruit
+4005,Blueberries,Fruits,14.5,0.7,0.3,2.4,53,fruit
+4006,Grapes,Fruits,18.0,0.6,0.3,0.9,59,fruit
+4007,Pineapple,Fruits,13.1,0.5,0.1,1.4,59,fruit
+4008,Watermelon,Fruits,7.6,0.6,0.2,0.4,72,fruit
+4009,Mango,Fruits,15.0,0.8,0.4,1.6,51,fruit
+4010,Pear,Fruits,15.0,0.4,0.1,3.1,38,fruit
+4011,Peach,Fruits,9.5,0.9,0.3,1.5,42,fruit
+4012,Kiwi,Fruits,14.7,1.1,0.5,3.0,53,fruit
+4013,Cherries,Fruits,12.0,1.0,0.3,1.6,22,fruit
+4014,Grapefruit,Fruits,10.7,0.8,0.1,1.6,25,fruit
+5001,Avocado,Fats,9.0,2.0,15.0,7.0,15,fat
+5002,Olive oil,Fats,0.0,0.0,14.0,0.0,0,fat
+5003,Almonds,Fats,6.1,6.0,14.0,3.5,15,fat
+5004,Walnuts,Fats,3.9,4.3,18.3,1.9,15,fat
+5005,Chia seeds,Fats,12.0,4.7,9.0,10.0,15,fat
+5006,Flax seeds,Fats,1.6,5.7,10.0,7.6,15,fat
+5007,Coconut oil,Fats,0.0,0.0,14.0,0.0,0,fat
+5008,Peanut butter,Fats,6.0,8.0,16.0,2.0,14,fat
+5009,Butter,Fats,0.1,0.1,11.5,0.0,0,fat
+5010,Sunflower seeds,Fats,6.5,5.5,14.0,3.0,15,fat
+5011,Pumpkin seeds,Fats,5.0,7.0,13.0,1.7,15,fat
+5012,Cashews,Fats,9.0,5.0,12.0,1.0,22,fat
+6001,"Greek yogurt, plain",Dairy,3.6,9.0,0.4,0.0,35,dairy
+6002,"Milk, whole",Dairy,4.8,3.2,3.9,0.0,31,dairy
+6003,"Milk, skim",Dairy,4.8,3.4,0.1,0.0,32,dairy
+6004,Cheddar cheese,Dairy,0.4,7.0,9.4,0.0,0,dairy
+6005,Mozzarella cheese,Dairy,0.6,6.3,7.0,0.0,0,dairy
+6006,Feta cheese,Dairy,1.2,4.0,6.0,0.0,0,dairy
+6007,"Regular yogurt, plain",Dairy,7.7,3.5,3.3,0.0,41,dairy
+6008,Sour cream,Dairy,2.2,1.0,5.6,0.0,0,dairy
+6009,Cream cheese,Dairy,1.6,2.1,10.0,0.0,0,dairy
+7001,Chocolate cake,Sweets,52.0,5.0,13.0,2.0,38,sweet
+7002,Milk chocolate,Sweets,53.0,7.5,30.0,3.4,43,sweet
+7003,"Dark chocolate, 70%",Sweets,45.0,8.0,31.0,11.0,23,sweet
+7004,"Cookie, chocolate chip",Sweets,25.0,1.5,5.0,0.5,57,sweet
+7005,White sugar,Sweets,100.0,0.0,0.0,0.0,65,sweet
+7006,Honey,Sweets,82.0,0.3,0.0,0.2,58,sweet
+7007,Maple syrup,Sweets,67.0,0.0,0.1,0.0,54,sweet
+7008,"Donut, glazed",Sweets,22.0,2.3,12.0,0.7,76,sweet
+7009,"Muffin, blueberry",Sweets,32.0,4.0,9.5,1.5,54,sweet
+7010,"Ice cream, vanilla",Sweets,24.0,3.5,11.0,0.7,62,sweet
+8001,"Black beans, cooked",Legumes,24.0,8.9,0.5,15.0,30,protein
+8002,"Chickpeas, cooked",Legumes,27.0,9.0,3.0,8.0,28,protein
+8003,"Lentils, cooked",Legumes,20.0,9.0,0.4,8.0,32,protein
+8004,"Kidney beans, cooked",Legumes,22.8,8.7,0.5,6.4,28,protein
+8005,"Pinto beans, cooked",Legumes,22.0,7.0,0.7,7.0,39,protein
+8006,"Edamame, shelled",Legumes,8.9,8.5,4.0,4.0,25,protein
+8007,"Green peas, cooked",Legumes,14.0,5.0,0.4,4.4,51,vegetable
+8008,"Lima beans, cooked",Legumes,21.0,7.8,0.5,7.0,32,protein
